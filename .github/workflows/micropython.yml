@@ -5,7 +5,7 @@ on:
 
 env:
   MICROPYTHON_VERSION: v1.23.0
-  PIMORONI_PICO_VERSION: v1.23.0-1
+  PIMORONI_PICO_VERSION: feature/picovector2-and-layers
   WORKFLOW_VERSION: v3
 
 jobs:
